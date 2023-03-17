@@ -1,4 +1,4 @@
-<h1>Yossi Karasik - Portfolio</h1>
+<h1>Harel Natan - Portfolio</h1>
 
 <img src='/src/assets/readme-gif.gif' /> 
 
