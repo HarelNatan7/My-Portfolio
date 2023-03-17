@@ -22,13 +22,13 @@ function About() {
       <div className="about__content">
         <div className="about__cards reveal fade-right">
 
-          <article className='about__card'>
+          {/* <article className='about__card'>
             <SiVisualstudiocode className='about__icon' />
             <h5>Coding Academy</h5>
             <small>Fullstack Developer</small>
-          </article>
+          </article> */}
 
-          <article className='about__card'>
+          {/* <article className='about__card'>
             <FaAward className='about__icon' />
             <h5>Practical Engineer</h5>
             <small>Electricity & PLC</small>
@@ -38,7 +38,7 @@ function About() {
             <VscArchive className='about__icon' />
             <h5>Projects</h5>
             <small>10+ <br /> Complied</small>
-          </article>
+          </article> */}
         </div>
 
         <p className='reveal fade-left'>I'm a web developer, I recently finished a full-stack boot camp (Coding Academy), and I'm looking for
