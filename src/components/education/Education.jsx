@@ -9,7 +9,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 
-import EDUCATION1 from '../../assets/education1.jpg'
+import EDUCATION1 from '../../assets/CA Certificate.png'
 import EDUCATION2 from '../../assets/education2.jpeg'
 import EDUCATION3 from '../../assets/education3.jpeg'
 
