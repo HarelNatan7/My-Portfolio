@@ -8,7 +8,7 @@ import { IoLogoTwitter } from 'react-icons/io'
 function Footer() {
   return (
     <footer>
-      <a href="#" className='footer__logo hithere'>Yossi Karasik
+      <a href="#" className='footer__logo hithere'>Harel Natan
         <br />
         <h5 className='footer__sub-logo'>FullStack Developer</h5>
       </a>
@@ -29,7 +29,7 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy;2023 Yossi Karasik. All rights reserved.</small>
+        <small>&copy;2023 Harel Natan. All rights reserved.</small>
       </div>
     </footer>
   )
