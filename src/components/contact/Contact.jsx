@@ -39,15 +39,15 @@ function Contact() {
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon' />
             <h4>Messenger</h4>
-            <h5>yossi.karasik</h5>
-            <a href="https://m.me/yossi.karasik" target="_blank">Send a message</a>
+            <h5>harel.natan</h5>
+            <a href="https://m.me/harel.natan" target="_blank">Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
             <h5>+972-585-877822</h5>
-            {/* <a href="https://api.whatsapp.com/send?phone=+972528666064">Send a message</a> */}
-            <a href="https://chatwith.io/s/yossikarasik" target="_blank">Send a message</a>
+            {/* <a href="https://api.whatsapp.com/send?phone=+972585877822">Send a message</a> */}
+            <a href="https://chatwith.io/s/harelnatan" target="_blank">Send a message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
