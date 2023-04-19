@@ -35,7 +35,7 @@ To see a live demo of the project, please visit https://YossiKarasik.com
 To run the project locally, follow these steps:
 
 Clone the repository: 
-`git clone https://github.com/yosikari/portfolio.git`
+`git clone https://github.com/harelnatan7/My-Portfolio.git`
 
 Install dependencies: 
 `npm install`
