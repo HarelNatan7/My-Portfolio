@@ -1,8 +1,5 @@
 <h1>Harel Natan - Portfolio</h1>
 
-<img src='/src/assets/readme-gif.gif' /> 
-
-Check it out here: https://YossiKarasik.com
 
 ## Project Features
 
